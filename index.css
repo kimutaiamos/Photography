@@ -4,3 +4,13 @@ body{
 .Example{
     display: flex;
 }
+.image{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+.image{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
