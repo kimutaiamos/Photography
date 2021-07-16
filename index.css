@@ -14,3 +14,9 @@ body{
     justify-content: space-between;
     padding-bottom: 10px;
 }
+.image{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+    background-attachment: fixed;
+}
