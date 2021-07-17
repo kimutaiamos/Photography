@@ -31,6 +31,16 @@ text{
     background-size: auto;
     padding-left: 30%;
 }
-<div{
+div{
     background-image: -moz-radial-gradient(23);
+}
+map{
+    display: inline;
+    justify-items: last baseline;
+    background-size: cover;
+}
+.h1 style="color:blue;">
+A blue heading</h1>
+<p style="color:red;"a
+a red paragraph.</p>
 }
