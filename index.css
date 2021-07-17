@@ -20,8 +20,8 @@ body{
     padding-right: 10px;
     background-attachment: fixed;
 }
-body{
-    background-position: 10px;
-    justify-content: space-between;
-    text-decoration-style: solid;
+img{
+    margin-left: 50px;
+    max-height: 50%;
+    background-position: left;
 }
