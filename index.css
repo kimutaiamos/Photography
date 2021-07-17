@@ -31,3 +31,6 @@ text{
     background-size: auto;
     padding-left: 30%;
 }
+<div{
+    background-image: -moz-radial-gradient(23);
+}
