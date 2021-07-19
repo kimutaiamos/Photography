@@ -75,5 +75,24 @@ map{
     font-size: 20px;
     padding: 20px;
 }
-
+nav
+{
+    justify-content: center;
+    color: black;
+}
+footer
+{
+    background-color: blue;
+}
+footer ul
+{
+    color: black;
+}
+footer ul li
+{
+    color: black;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
 
