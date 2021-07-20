@@ -57,6 +57,7 @@ map{
       text-align: center;
       margin: 0;
       padding: 0;
+      flex-grow: inherit;
   }
   .nav li{
       display: inline-block;
@@ -82,7 +83,8 @@ nav
 }
 footer
 {
-    background-color: blue;
+    background-color:greenyellow;
+    text-shadow: hotpink;
 }
 footer ul
 {
@@ -95,4 +97,13 @@ footer ul li
     align-items: center;
     justify-content: center;
 }
-
+.footer li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+  }
+body{
+    text-align: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
