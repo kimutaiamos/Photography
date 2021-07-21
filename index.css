@@ -106,4 +106,15 @@ body{
     text-align: center;
     font-size: large;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.logo{
+    float:left;
+    padding: 5px;
+}
+.image1{
+    float
+}
+.mbd{
+    display: flex: left;
 }
