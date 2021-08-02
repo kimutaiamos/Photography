@@ -1,50 +1,9 @@
 body{
-    background-color: cornflowerblue;
+    background-color: lightgray;
 }
 .Example{
     display: flex;
 }
-.image{
-    display: flex;
-    justify-content: space-between;
-    padding-bottom: 10px;
-}
-.image{
-    display: flex;
-    justify-content: space-between;
-    padding-bottom: 10px;
-}
-.image{
-    display: flex;
-    justify-content: space-between;
-    padding-right: 10px;
-    background-attachment: fixed;
-}
-img{
-    margin-left: 50px;
-    max-height: 50%;
-    background-position: left;
-}
-text{
-    text-align: start;
-    display: inline-block;
-    background-size: auto;
-    padding-left: 30%;
-}
-div{
-    background-image: -moz-radial-gradient(23);
-}
-map{
-    display: inline;
-    justify-items: last baseline;
-    background-size: cover;
-}
-.nav {
-    background-color: yellow; 
-    list-style-type: none;
-    text-align: center;
-    margin: 0;
-    padding: 0;
   }
   .nav li {
     display: inline-block;
@@ -52,7 +11,7 @@ map{
     padding: 20px;
   }
   .nav{
-      background-color: yellow;
+      background-color:lightslategray;
       list-style-type: none;
       text-align: center;
       margin: 0;
@@ -65,7 +24,7 @@ map{
       padding: 20px;
   }
   .nav{
-    background-color: yellow;
+    background-color:lightslategrey;
     list-style-type: none;
     text-align: center;
     margin: 0;
@@ -81,47 +40,3 @@ nav
     justify-content: center;
     color: black;
 }
-footer
-{
-    background-color:greenyellow;
-    text-shadow: hotpink;
-}
-footer ul
-{
-    color: black;
-}
-footer ul li
-{
-    color: black;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-}
-.footer li {
-    display: inline-block;
-    font-size: 20px;
-    padding: 20px;
-  }
-body{
-    text-align: center;
-    font-size: large;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    
-}
-.logo{
-    float:left;
-    padding: 5px;
-}
-.image1{
-    float:none;
-}
-.shadow{
-    width: 100%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    box-sizing: border-box;
-    background-color: #3CBC8D;
-  color:orangered;
-  display: flex;
-  justify-content: space-evenly;
-  }
