@@ -1,8 +1,5 @@
 body{
-    background-color: lightgray;
-}
-.Example{
-    display: flex;
+    background-color: lightgreen;
 }
   }
   .nav li {
@@ -39,4 +36,25 @@ nav
 {
     justify-content: center;
     color: black;
+}
+.photo1{
+    width:200% ;
+    margin: left 50px;
+    margin-right: 50px;
+    margin-top: 0%;
+    margin-bottom: 50px;
+}
+.photo2{
+    width:200% ;
+    margin: left 50px;
+    margin-right: 50px;
+    margin-top: 0%;
+    margin-bottom: 50px;
+}
+.photo3{
+    width:200% ;
+    margin: left 50px;
+    margin-right: 50px;
+    margin-top: 0%;
+    margin-bottom: 50px;
 }
