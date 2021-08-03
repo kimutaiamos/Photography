@@ -1,6 +1,8 @@
 body{
     background-color: lightgreen;
-    background-image:https://unsplash.com/photos/vmdJ6n8PIa8 ;
+    background-image: url("bg1.jpg");
+    background-color: #cccccc;
+  }
 }
   }
   .nav li {
@@ -52,7 +54,8 @@ nav
     margin-top: 0%;
     margin-bottom: 50px;
     margin: 1em;
-    margin: -3px
+    margin: -3px;
+    ar
 }
 .photo3{
     width:400px ;
@@ -61,7 +64,7 @@ nav
     margin-top: 0%;
     margin-bottom: 50px;
     margin: 1em;
-    margin: -3px
+    margin: -3px;
 }
 .photo4{
     width:800px ;
@@ -71,7 +74,7 @@ nav
     margin-bottom: 50px;
     float: right;
     margin: 1em;
-margin: -3px
+    margin: -3px;
 }
 .content1{
     background-color:lightslategrey;

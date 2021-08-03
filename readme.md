@@ -1,7 +1,7 @@
 # Author
 AMOS KIMUTAI
 ## Description
-A website that advertises on laptops sale inviting people to log in
+A website that advertises on phtographs inviting people to log in and enjoy seeing the photographs.
 ### prerequisites
 you must be having a visual studio instaled so as to write your code with
 you need to have git installed
