@@ -65,3 +65,12 @@ nav
     margin-top: 0%;
     margin-bottom: 50px;
 }
+.content1{
+    background-color:lightslategrey;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+}
