@@ -3,8 +3,6 @@ body{
     background-image: url("bg1.jpg");
     background-color: #cccccc;
   }
-}
-  }
   .nav li {
     display: inline-block;
     font-size: 20px;
@@ -55,7 +53,6 @@ nav
     margin-bottom: 50px;
     margin: 1em;
     margin: -3px;
-    ar
 }
 .photo3{
     width:400px ;
@@ -88,7 +85,4 @@ nav
     height: 150px;
     display: flexbox;
     display: inline-block;
-}
-.form{
-    
 }
